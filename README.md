@@ -1,4 +1,4 @@
- I'm Bibek Ghimire!👋
+ Hey, I'm Bibek Ghimire!👋
 
 - 🔭 I’m currently working on Web Development and Design.
 - 🌱 I’m currently learning Machine learning and Data Science.  
